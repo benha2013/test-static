@@ -1,9 +1,5 @@
-title : Hello world
+---
+published: false
+---
 
-
-
-
-* lkjljasdfljl asdf af ads
-adsf adfad
- asdf adsf
- adsfdaf
+t![](/_posts/how-to-fix-c-compiler-error-mac-os-x-lion.jpg)
